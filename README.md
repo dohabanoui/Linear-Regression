@@ -25,46 +25,8 @@ La régression linéaire est une technique d'apprentissage automatique qui modé
 
 ### Le modèle
 
-Dans ce projet, nous implémentons un modèle selon l'équation matricielle...
-
 ### Les erreurs du modèle
-
-Nous mesurons les erreurs du modèle en utilisant l'erreur quadratique moyenne (MSE)...
-
 ### Gradient
-
-Nous implémentons la formule du gradient pour la MSE...
-
 ### Évaluation du modèle
-
-L'évaluation du modèle se fait en calculant le coefficient de détermination (RSE)...
-
 ---
 
-## Analyse du Dataset
-
-Le dataset que nous utilisons, appelé "Advertising", collecte des informations sur les ventes de produits et les dépenses publicitaires dans divers médias...
-
-### Affichage de la forme du DataFrame
-
-Nous commençons par afficher la forme du DataFrame pour avoir une idée de la taille des données...
-
-### Statistiques descriptives
-
-Nous calculons les statistiques descriptives pour mieux comprendre la distribution des données...
-
-### Vérification des valeurs manquantes
-
-Nous vérifions s'il y a des valeurs manquantes dans le dataset...
-
-### Les colonnes existantes
-
-Nous répertorions les colonnes existantes dans le dataset...
-
-### Analyse de la corrélation entre les variables
-
-Nous calculons la corrélation entre les variables pour identifier les relations potentielles...
-
-### Traitement du shape
-
-Nous redimensionnons les données pour les préparer à la standardisation...
