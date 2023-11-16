@@ -1,6 +1,6 @@
 # Projet de Régression Linéaire
 
-
+Ce projet a pour but de démontrer l'application de la régression linéaire à l'analyse de données. Nous examinerons les concepts de la régression linéaire, de l'analyse du dataset, de la standardisation des données et de la performance du modèle.
 
 ## Table des matières
 
